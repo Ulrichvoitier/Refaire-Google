@@ -1,0 +1,16 @@
+<html =lang"fr">
+<head>
+    <meta charset="utf-8">
+<title>Nouvel onglet</title>
+<img src="fichiers linux/logo.jpg">
+
+</head>
+<body>
+    <title> <bold>GOOGLE</bold></title>
+</body>
+<footer>
+<div class="container">
+<div class="element 1=Fance">element1</div>
+</div>
+</footer>
+</html>

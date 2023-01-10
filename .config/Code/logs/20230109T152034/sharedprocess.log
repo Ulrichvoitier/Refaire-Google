@@ -1,0 +1,7 @@
+2023-01-09 15:20:46.618 [info] Starting worker process with pid 463 (type: fileWatcher, window: 1).
+2023-01-09 15:20:47.154 [warning] No ptyHost heartbeat after 6 seconds
+2023-01-09 16:17:08.703 [info] Worker process with pid 463 terminated normally (type: fileWatcher, window: 1).
+2023-01-09 16:17:11.813 [info] Starting worker process with pid 1669 (type: fileWatcher, window: 1).
+2023-01-09 17:30:27.396 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-01-09 21:43:41.463 [warning] No ptyHost heartbeat after 6 seconds
+2023-01-09 21:43:43.445 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}

@@ -1,0 +1,42 @@
+.container{
+    display: flex wrap;
+    margin-bottom: ;
+}
+.element1 {
+    text-align: left;
+}
+.element2 {
+    text-align: center;
+    display: flex wrap;
+    flex-direction: row;
+    align-content: stretch;
+}
+input{
+    width: 900px;
+    padding: 15px;
+    margin: 200px;
+    box-sizing: border-box;
+    padding-left: 40px;
+    border-radius: 50px;
+    border: 1px solid #ccd1d9;
+}
+.img{
+    display: block;
+    margin-left: 500;
+    position: absolute;
+    width: 30%;
+    height: 25%;
+}
+.search{
+    align-content: flex;
+    width: 200px;
+    padding-bottom: 2;
+    margin-left: 100px;
+}
+.haut{
+    color-scheme: blue;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 1rem;
+}
